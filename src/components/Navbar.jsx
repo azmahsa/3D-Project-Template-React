@@ -58,7 +58,7 @@ const Navbar = () => {
                     active === nav.title ? "text-white" : "text-secondary"
                   } hover:text-white text-[16px]  font-poppsin font-medium cursor-pointer`}
                   onClick={() => {
-                    setToggle(!toggle)
+                    setToggle(!toggle);
                     setActive(nav.title);
                   }}
                 >

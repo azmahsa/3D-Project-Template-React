@@ -59,8 +59,6 @@ const services = [
   },
 ];
 
-
-
 const experiences = [
   {
     title: "React.js Developer",
