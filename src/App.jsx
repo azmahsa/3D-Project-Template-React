@@ -20,7 +20,7 @@ function App() {
         <Experience />
         <Works />
         <Feedbacks />
-        <div className=" relative ">
+        <div className=" relative py-24 ">
           <Contact />
           <StarsCanvas />
         </div>
